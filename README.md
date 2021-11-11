@@ -23,8 +23,8 @@
    > ###### 为了避免造成不必要的麻烦，希望各位能够遵守相关规定，谢谢
    
    1. 打开<kbd>data\touhou</kbd>，这是存放训练用图片目录，请将准备好的图片放入此目录下  
-   <br>
-   2. 打开<kbd>data\touhou\index\index.csv</kbd>，这是用于存放数据集信息的索引文件，  
+   
+   3. 打开<kbd>data\touhou\index\index.csv</kbd>，这是用于存放数据集信息的索引文件，  
    结构如下:  
    
       ```python
